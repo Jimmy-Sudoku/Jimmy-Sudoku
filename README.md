@@ -14,7 +14,7 @@ I am Jimmy and the following are the list of projects that are in repo :
 <br>
 [6. General Assembly Capstone : Crypto (Eth) Fraud Detection](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/05%20Capstone%20Project%20-%20Crypto%20Fraud%20Detection)
 <br>
-[7. Google Trends in Canada 2023 April](https://github.com/Jimmy-Sudoku/Canada-Google-Trend-Dashboard-April-2023)
+[7. Google Trends in Canada (April 2023)](https://github.com/Jimmy-Sudoku/Canada-Google-Trend-Dashboard-April-2023)
 <br>
 8. Solana Hackathon - In progress
 <br><br>
