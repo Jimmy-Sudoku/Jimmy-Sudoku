@@ -1,4 +1,4 @@
-### Hi there 👋 :man:
+### Hi there 👋
 Welcome to my Github Overview page! :smiley:
 
 I am Jimmy and the following are the list of projects that are in repo :
