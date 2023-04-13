@@ -20,7 +20,7 @@ I am Jimmy and the following are the list of projects that are in repo :
 8. Solana Hackathon (In progress)
 
 <br>
-Do take a look at my [dashboard](https://public.tableau.com/app/profile/jimmy5898) and do remember to follow me! :hugs: :pray:
+Do take a look at my ([dashboard](https://public.tableau.com/app/profile/jimmy5898)) and do remember to follow me! :hugs: :pray:
 <!--
 **Jimmy-Sudoku/Jimmy-Sudoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
