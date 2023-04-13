@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my Github Overview page! 
+### Hi there 👋 Welcome to my Github Overview page! :smiley:
 
 I am Jimmy and the following are the list of projects that are in repo :
 
@@ -18,6 +18,8 @@ I am Jimmy and the following are the list of projects that are in repo :
 <br>
 8. Solana Hackathon (In progress)
 
+<br>
+Do [click this link](https://public.tableau.com/app/profile/jimmy5898) to see my dashboard and do remember to follow me! 
 <!--
 **Jimmy-Sudoku/Jimmy-Sudoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
