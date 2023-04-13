@@ -2,7 +2,7 @@
 
 I am Jimmy and the following are the list of projects that are in repo :
 
-1. (Canada Median Marriage age[https://github.com/Jimmy-Sudoku/Canada-median-marriage-age])
+1. ([Canada Median Marriage age](https://github.com/Jimmy-Sudoku/Canada-median-marriage-age))
 2. General Assembly : Standardised test
 3. General Assembly : Housing Price
 4. General Assembly : Reddit 
