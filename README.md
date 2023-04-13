@@ -12,7 +12,7 @@ I am Jimmy and the following are the list of projects that are in repo :
 [4. General Assembly : Reddit Classifications](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/03_Project%2003-Reddit%20Classifications)
 <br>
 [5. General Assembly : West Nile Virus](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/04-Project%2004-West%20Nile%20Virus)
-5i. Do see [my demo](https://west-nile-virus-area.streamlit.app/) for this project! :smiley:
+<br>5i. Do see [my demo](https://west-nile-virus-area.streamlit.app/) for this project! :smiley:
 <br>
 [6. General Assembly Capstone : Crypto (Eth) Fraud Detection](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/05%20Capstone%20Project%20-%20Crypto%20Fraud%20Detection)
 <br>
