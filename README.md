@@ -17,7 +17,7 @@ I am Jimmy and the following are the list of projects that are in repo :
 <br>
 [7. Google Trends in Canada 2023 April](https://github.com/Jimmy-Sudoku/Canada-Google-Trend-Dashboard-April-2023)
 <br>
-8. Solana Hackathon -In progress
+8. Solana Hackathon - In progress
 
 <br>
 Do take a look at [my dashboard](https://public.tableau.com/app/profile/jimmy5898) and do remember to follow me! :hugs: :pray:
