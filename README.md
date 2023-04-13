@@ -1,5 +1,4 @@
-### Hi there 👋
-Welcome to my Github Overview page! :smiley:
+### Welcome to my Github Overview page!  👋 :smiley:
 
 I am Jimmy and the following are the list of projects that are in repo :
 
@@ -11,8 +10,7 @@ I am Jimmy and the following are the list of projects that are in repo :
 <br>
 [4. General Assembly : Reddit Classifications](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/03_Project%2003-Reddit%20Classifications)
 <br>
-[5. General Assembly : West Nile Virus](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/04-Project%2004-West%20Nile%20Virus)
-<br>5i. Do see [my demo](https://west-nile-virus-area.streamlit.app/) for this project! :smiley:
+[5. General Assembly : West Nile Virus](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/04-Project%2004-West%20Nile%20Virus) - Do see [my demo](https://west-nile-virus-area.streamlit.app/) for this project! :wink:
 <br>
 [6. General Assembly Capstone : Crypto (Eth) Fraud Detection](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/05%20Capstone%20Project%20-%20Crypto%20Fraud%20Detection)
 <br>
