@@ -12,7 +12,7 @@ I am Jimmy and the following are the list of projects that are in repo :
 <br>
 [5. General Assembly : West Nile Virus](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/04-Project%2004-West%20Nile%20Virus) - Do see [my demo](https://west-nile-virus-area.streamlit.app/) for this project! :wink:
 <br>
-[6. General Assembly Capstone : Crypto (Eth) Fraud Detection](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/05%20Capstone%20Project%20-%20Crypto%20Fraud%20Detection) - Do see [my dashboard visualisation](https://public.tableau.com/app/profile/jimmy5898/viz/CryptoEthFraudDashboard/CryptoEthFraudTransactionVisualisations) for the summary of my findings! 😉 🥳 
+[6. General Assembly Capstone : Crypto (Eth) Fraud Detection](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/05%20Capstone%20Project%20-%20Crypto%20Fraud%20Detection) - Do see [my dashboard visualisation](https://public.tableau.com/app/profile/jimmy5898/viz/CryptoEthFraudDashboard/CryptoEthFraudTransactionVisualisations) for the summary! 😉 🥳 
 <br>
 [7. Google Trends in Canada (April 2023)](https://github.com/Jimmy-Sudoku/Canada-Google-Trend-Dashboard-April-2023) - Do see [my dashboard visualisation](https://public.tableau.com/app/profile/jimmy5898/viz/GoggleTrendsinCanadaApril2023/storytelling) to get more indepth look! 🇨🇦 🍾
 <br>
